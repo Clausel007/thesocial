@@ -1,0 +1,122 @@
+.text-link{
+    color: #676a6c;
+}
+
+.text-link:hover{
+    color: #676a6c;
+}
+
+.comment-head-dash{
+    margin-bottom: 6px;
+}
+
+.comment-head-dash-title{
+    font-weight: bold;
+    font-size: 13px;
+}
+.comment-head-dash-date{
+    color: #999999;
+    font-style: italic;
+}
+.comment-dash-view{
+    margin-bottom: 5px;
+}
+
+
+
+.dash > .card-body > ul > li > a.text-address-csm{
+    font-size: 13px;
+    word-spacing: -3px;
+    letter-spacing: 0px;
+}
+.dash > .card-body > .card-profil-info > li{
+    margin: 10px auto;
+}
+.profile-info > .tab-content{
+    padding: 10px 5px 50px 10px;
+}
+
+
+.radio-inline{
+    display: inline;
+    float: right;
+    margin-right: 10px;
+}
+.row-custom{
+    margin: 1%;
+}
+.wedd{
+    padding: 5px 0px;
+}
+.row-wedd{
+    padding-top: 10px;
+    background: #eaeded;
+    border-radius: 5px;
+}
+
+
+.card-box{
+    position: relative;
+    border-radius: 3px;
+    background: #ffffff;
+    border-bottom: 3px solid #d2d6de;
+    margin-bottom: 20px;
+    padding: 10px;
+    box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+}
+
+
+.card-primary{
+    background: #123456;
+    color: #ffffff;
+}
+
+.card-box > .card-header-info{
+    background: #5499c7;
+    color: #f8f9f9;
+}
+.card-profil > .card-header{
+    padding: 80px 10px;
+}
+.tab-content > .tab-profil-info > form > .tab-info{
+    padding: 10px;
+}
+.card-profil > .card-body{
+    padding: 10px 1px;
+}
+.profil-card-img{
+    position: relative;
+    width: 46%;
+    top: 10px;
+    left: 27%;
+    padding: 2px;
+    border: 3px solid #d2d6de;
+}
+.card-profil-username{
+    font-size: 28px;
+    margin-top: 15px;
+}
+.dash > .card-header > address.text-address{
+    font-size: 12px;
+    color: #d7dbdd;
+}
+.profile-info{
+    background: #ffffff;
+    margin-top: 2.5%;
+}
+.profile-info > ul.nav-tabs > li{
+    border-radius: 20px !important;
+}
+.profile-info > ul.nav-tabs > li.active > a{
+    background: #f8f9f9;
+    border-radius: 0px;
+    border-top: 2px solid #2880b9;
+}
+.profile-info > .tab-content > .tab-pane{
+    padding: 20px 30px;
+}
+
+/***            navbar customize            ***/
+
+
+
